@@ -1,24 +1,12 @@
 ﻿{
     "Sites": [{
-            "url": "agrobrazil.net.br"
+            "url": "example.com"
         },
         {
-            "url": "altermax.com.br"
+            "url": "example.com"
         },
         {
-            "url": "apoena.org.br"
-        },
-        {
-            "url": "approachauditores.com.br"
-        },
-        {
-            "url": "approachcondominios.com.br"
-        },
-        {
-            "url": "approachcondominios.com.br"
-        },
-        {
-            "url": "arenales.com.br"
+            "url": "example.com"
         }
     ]
 }
